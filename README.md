@@ -1,7 +1,8 @@
 # 2D Sprite Generator from 3D Models 
 
 This is a simple Godot 4.4 project that lets you convert animated 3D characters into 2D sprite sheets by automatically capturing each frame of an animation and saving it as PNG images.
-<video src="Help/2D-Sprite-Creator-Preview.mp4" controls width="600"></video>
+
+[![Watch the video](https://img.youtube.com/vi/sTrDrFgCJCw/0.jpg)](https://www.youtube.com/watch?v=sTrDrFgCJCw)
 
 ---
 
@@ -29,6 +30,7 @@ This is a simple Godot 4.4 project that lets you convert animated 3D characters 
 ### 2. Adjust Parameters
 
 Click the main node in the scene and modify the following in the **Inspector**:
+
 <img src="Help/Parameters.png">
 
 - **Image FPS** – Frames captured per second (keep this consistent with your animation FPS).  
