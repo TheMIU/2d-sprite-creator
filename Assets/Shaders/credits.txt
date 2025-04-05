@@ -1,0 +1,2 @@
+Outline shader from:
+https://godotshaders.com/shader/thick-3d-screen-space-depth-normal-based-outline-shader/

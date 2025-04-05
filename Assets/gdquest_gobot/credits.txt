@@ -1,0 +1,2 @@
+Gobot character from:
+https://github.com/gdquest-demos/godot-4-3D-Characters/tree/main?tab=readme-ov-file
