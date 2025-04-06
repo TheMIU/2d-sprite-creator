@@ -32,7 +32,7 @@ func _capture_frame() -> void:
 		var global_path = ProjectSettings.globalize_path(save_path)
 		print("Finished capturing. Frames saved in:", global_path)
 		OS.shell_open(global_path) # open folder
-		queue_free()  # Free the node after capturing all frames
+		get_tree().quit()
 		return
 
 	var image: Image = get_viewport().get_texture().get_image()
